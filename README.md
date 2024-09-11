@@ -12,7 +12,6 @@ Normalização: Escalonamento dos dados para uma escala comum.
 Codificação One-Hot: Transformação de variáveis categóricas em numéricas.
 Modelagem: Construção e treinamento de diversos modelos de aprendizado de máquina, incluindo:
 Seleção de algoritmos: Comparação de diferentes algoritmos para identificar o modelo mais adequado para o problema.
-Projeto desenvolvido conforme o canal Nerd dos dados.
 
 Pacotes Utilizados:
 
